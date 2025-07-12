@@ -1,0 +1,13 @@
+{
+  "name": "solana-key-converter",
+  "version": "1.0.0",
+  "description": "Convert Solana private keys between Base58 and Uint8Array",
+  "main": "Base58_to_Unit8Array.js",
+  "scripts": {
+    "start": "node \"Base58 to Unit8Array.js\""
+  },
+  "dependencies": {
+    "bs58": "^5.0.0"
+  },
+  "type": "module"
+}
